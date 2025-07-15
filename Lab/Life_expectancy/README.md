@@ -71,7 +71,7 @@ LifeExpectancy/
 
 ## 🚀 How to Run
 
-
+```bash
 # Clone the repo
 git clone https://github.com/IamSavitha/DATA202-Math.git
 cd DATA202-Math/Lab/LifeExpectancy
@@ -81,7 +81,7 @@ pip install -r requirements.txt
 
 # Launch notebook
 jupyter notebook notebooks/life_expectancy_analysis.ipynb
-
+```
 
 📎 References
 WHO Life Expectancy Dataset

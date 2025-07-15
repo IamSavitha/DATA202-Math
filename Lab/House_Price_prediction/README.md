@@ -71,7 +71,7 @@ HousePricePrediction/
 - Model tuning and feature selection greatly improve predictive power.
 
 ## 🚀 How to Run
-
+```bash
 
 # Clone the repository
 git clone https://github.com/IamSavitha/DATA202-Math.git
@@ -83,6 +83,7 @@ pip install -r requirements.txt
 # Run Jupyter notebook
 jupyter notebook notebooks/house_price_prediction.ipynb
 x
+```
 
 📎 References
 

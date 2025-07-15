@@ -72,16 +72,18 @@ MovieRecommendation/
 
 ## 🚀 How to Run
 
-   ```bash
-   # Clone the repo
-   git clone https://github.com/IamSavitha/DATA202-Math.git
-   cd DATA202-Math/Lab/MovieRecommendation
+```bash
+# Clone the repo
+git clone https://github.com/IamSavitha/DATA202-Math.git
+cd DATA202-Math/Lab/MovieRecommendation
 
-   # Install dependencies
-   pip install -r requirements.txt
+# Install dependencies
+pip install -r requirements.txt
 
-   # Run the notebook
-   jupyter notebook notebooks/movie_recommendation.ipynb
+# Run the notebook
+jupyter notebook notebooks/movie_recommendation.ipynb
+```
+
 
 📎 References
 MovieLens Dataset
