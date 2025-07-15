@@ -1,0 +1,12 @@
+x = 10 , y =  11, 12  -> not deterministic 
+
+to get regression 
+1. Draw scatter plot 
+2. draw regression line 
+3. y above y_pred -> +ve 
+
+database -> inference -> ML 
+
+
+Logistic regression -> Sigmoid function -> last stage of deep learning 
+For binary data 
